@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Hung Nguyen!
 
-<!--
-**hungfnguyen/hungfnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a final-year student majoring in **Data Engineering**, passionate about building robust data pipelines and scalable data platforms.  
+I'm actively honing my skills, expanding my knowledge, and seeking **work opportunities** in this field, with a current focus on **cloud technologies** and **big data frameworks**.
 
-Here are some ideas to get you started:
+## 📌 My Focus Areas
+- Designing end-to-end batch/stream data pipelines  
+- Building Data Warehouse and Lakehouses using open-source tools  
+- Exploring orchestration, automation, and cloud-native data architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- 📧 Email: hungfnguyen.de@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/hungfnguyen-de](https://www.linkedin.com/in/hungfnguyen-de/)
+
+---
+
+*"The best way to learn data engineering is to build and break things. I'm here doing both."*
