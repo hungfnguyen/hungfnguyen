@@ -4,9 +4,13 @@
 
 
 ## My Focus Areas
-- Designing end-to-end batch/stream data pipelines  
-- Building Data Warehouses and Lakehouses using open-source tools  
-- Exploring orchestration and automation tools, and simulating cloud-native architectures in local environments
+
+- **ETL/ELT pipelines** (batch & streaming)
+- **Monitoring & Observability** for data systems
+- **Data Governance**: lineage, data quality, RBAC & PII masking
+- **CI/CD for data platforms** (Docker, GitHub Actions, IaC/Terraform)
+- **Learning GCP** (BigQuery, GCS, Pub/Sub, Dataflow, Cloud Composer)
+- **Long-term goal — become a Data Architect** — I’m growing toward platform-level ownership: defining reference architectures, standards, and blueprints that balance reliability, cost, and speed for analytics and ML across teams.
 
 ## Let's Connect!
 - Email: hungfnguyen.de@gmail.com 
